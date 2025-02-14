@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/PvZ_project/third_party/freeglut/CMakeLists.txt
+C:/PvZ_project/third_party/freeglut/FreeGLUTConfig.cmake.in
+C:/PvZ_project/third_party/freeglut/config.h.in
+C:/PvZ_project/third_party/freeglut/freeglut.pc.in
+C:/PvZ_project/third_party/freeglut/freeglut.rc.in
+C:/PvZ_project/third_party/freeglut/src/fg_version.h.in
+C:/mingw64/share/cmake-3.26/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+C:/mingw64/share/cmake-3.26/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+C:/mingw64/share/cmake-3.26/Modules/CMakePackageConfigHelpers.cmake
+C:/mingw64/share/cmake-3.26/Modules/CheckCCompilerFlag.cmake
+C:/mingw64/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake
+C:/mingw64/share/cmake-3.26/Modules/CheckFunctionExists.cmake
+C:/mingw64/share/cmake-3.26/Modules/CheckIncludeFile.cmake
+C:/mingw64/share/cmake-3.26/Modules/CheckIncludeFileCXX.cmake
+C:/mingw64/share/cmake-3.26/Modules/CheckIncludeFiles.cmake
+C:/mingw64/share/cmake-3.26/Modules/CheckTypeSize.cmake
+C:/mingw64/share/cmake-3.26/Modules/FindOpenGL.cmake
+C:/mingw64/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+C:/mingw64/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/mingw64/share/cmake-3.26/Modules/GNUInstallDirs.cmake
+C:/mingw64/share/cmake-3.26/Modules/Internal/CheckCompilerFlag.cmake
+C:/mingw64/share/cmake-3.26/Modules/Internal/CheckFlagCommonConfig.cmake
+C:/mingw64/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake
+C:/mingw64/share/cmake-3.26/Modules/WriteBasicConfigVersionFile.cmake

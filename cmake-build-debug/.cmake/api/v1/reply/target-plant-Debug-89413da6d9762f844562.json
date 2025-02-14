@@ -1,0 +1,152 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "lib/libplant.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_include_directories",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"src/plant/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -std=gnu++17 -fdiagnostics-color=always"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "D:/Codee/PvZ_project/src/GameObject"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Codee/PvZ_project/src/GameWorld"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "D:/Codee/PvZ_project/src/plant"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/Codee/PvZ_project/src"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/Codee/PvZ_project/src/Framework"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/Codee/PvZ_project/third_party/freeglut/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/Codee/PvZ_project/third_party/SOIL/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "D:/Codee/PvZ_project/src/zombie"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"id" : "zombie::@5ef15cee442c4d8b88ee"
+		}
+	],
+	"id" : "plant::@371f153136a1bbcaff0f",
+	"name" : "plant",
+	"nameOnDisk" : "libplant.a",
+	"paths" : 
+	{
+		"build" : "src/plant",
+		"source" : "src/plant"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "src/plant/plant.hpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/plant/plant.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
